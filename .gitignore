@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models (large files)
+models/*.joblib
+
+# Output files
+outputs/
+figures/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

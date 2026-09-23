@@ -1,0 +1,7 @@
+Model,F1,ROC-AUC,Precision,Recall,Accuracy
+XGBoost (original),0.6444,0.8169,0.5949,0.7027,0.7423
+XGBoost V2 + new features,0.6712,0.8162,0.5791,0.798,0.7316
+LightGBM,0.6672,0.8161,0.5626,0.8195,0.7194
+CatBoost,0.6504,0.7953,0.5608,0.774,0.7143
+Ensemble (equal weight),0.6706,0.8162,0.5757,0.803,0.7293
+Ensemble (weighted),0.671,0.8163,0.5766,0.8025,0.7299
